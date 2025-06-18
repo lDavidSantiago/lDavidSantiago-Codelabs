@@ -25,7 +25,7 @@ Este repositorio contiene mis codelabs y tareas para el curso de **Software Deve
   Experimentación con hilos virtuales para mejorar la concurrencia y el rendimiento de endpoints bloqueantes.
 
 - **[☁️ Codelab 1 - AWS (Amazon Web Services)](https://github.com/lDavidSantiago/lDavidSantiago-Codelabs/tree/master/CodeLabs/CODELAB%201%20AWS)**  
-  Primeros pasos con servicios de AWS, incluyendo despliegue de aplicaciones, S3 y configuración de credenciales.
+  Primeros pasos con servicios de AWS.
 
 ---
 

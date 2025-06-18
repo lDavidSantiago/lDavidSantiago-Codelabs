@@ -24,3 +24,10 @@ Este repositorio contiene mis codelabs y tareas para el curso de **Software Deve
 - **[🧵 Virtual Threads con Spring Boot (Project Loom)](https://github.com/lDavidSantiago/lDavidSantiago-Codelabs/tree/master/CodeLabs/Virtual%20Threads/VirtualThreads)**  
   Experimentación con hilos virtuales para mejorar la concurrencia y el rendimiento de endpoints bloqueantes.
 
+- **[☁️ Codelab 1 - AWS (Amazon Web Services)](https://github.com/lDavidSantiago/lDavidSantiago-Codelabs/tree/master/CodeLabs/CODELAB%201%20AWS)**  
+  Primeros pasos con servicios de AWS, incluyendo despliegue de aplicaciones, S3 y configuración de credenciales.
+
+---
+
+
+---
